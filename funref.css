@@ -1,0 +1,21 @@
+body{
+    background: -webkit-linear-gradient(#1e004e, #000000);
+}
+
+
+pre {
+    font-size: 12px;
+    background: -webkit-linear-gradient(#1e004e, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-left: -5%;
+}
+
+p {
+    font-size: 70px;
+    background: -webkit-linear-gradient(#1e004e, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
